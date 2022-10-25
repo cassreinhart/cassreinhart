@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ***Angular, Responsive Web Design, Deployment***
 - 💞️ I’m looking to collaborate on the Front End for open source projects
 - 📫 cassandrareinhart13@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/cassandra-reinhart-software-development/)
+- 💼 **Seeking New Opportunities** -- [LinkedIn](https://www.linkedin.com/in/cassandra-reinhart-software-development/) 
 
 ___________________________
 
