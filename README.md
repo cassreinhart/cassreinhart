@@ -8,11 +8,11 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/cassandra-reinhart-software-development/)
 
 
-![JS](/jslogo.png)
-![Python](/python.png)
-![Postgres](/postgres.png)
-![HTML](/html.png)
-![CSS](/css.png)
+![JS](/jslogo.png | width=100)
+![Python](/python.png | width=100)
+![Postgres](/postgres.png | width=100)
+![HTML](/html.png | width=100)
+![CSS](/css.png | width=100)
 <!---
 cassreinhart/cassreinhart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
