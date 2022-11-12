@@ -2,8 +2,8 @@
 
 - 💻 **Full Stack Software Engineering**
 - 👀 I’m interested in music, good food, exercise and science.
-- 🌱 I’m currently learning ***Angular, Responsive Web Design, Deployment***
-- 💞️ I’m looking to collaborate on the Front End for open source projects
+- 🌱 I’m currently learning ***React, Django, Data Structures & Algorithms***
+- 💞️ I’m working on my Portfolio, and a Project Management App
 - 📫 cassandrareinhart13@gmail.com
 - 💼 **Seeking New Opportunities** -- [LinkedIn](https://www.linkedin.com/in/cassandra-reinhart-software-development/) 
 
