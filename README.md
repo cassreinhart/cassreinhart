@@ -3,7 +3,7 @@
 - 💻 **Full Stack Software Engineering**
 - 👀 I’m interested in music, good food, exercise and science.
 - 🌱 I’m currently learning ***Data Structures & Algorithms***
-- 💞️ I’m working on my Portfolio, and a Project Management App
+- 💞️ I’m working on a chrome extension and a wishlist/gift tracker app
 - 📫 cassandrareinhart13@gmail.com
 - 💼 **Seeking New Opportunities** -- [LinkedIn](https://www.linkedin.com/in/cassandra-reinhart-software-development/) 
 
